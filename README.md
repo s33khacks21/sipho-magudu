@@ -1,106 +1,100 @@
+# Hello, I'm Sipho Magudu
 
-# Hello, I'm Sipho Magudu 👋
+<a href="https://www.linkedin.com/in/sipho-magudu-6b2188400/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.linkedin.com/in/sipho-magudu-6b2188400/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-## About Me
-
-I am a cybersecurity student with a background in secondary education and current training through Melsoft Academy and Cisco Networking Academy. I am developing practical skills in network security, security monitoring, and system hardening through hands-on labs.
-
-My goal is to start my career as a SOC Analyst, build a strong foundation in defensive security, and eventually progress into penetration testing and red team operations.
+I'm a cybersecurity student at Melsoft Academy and Cisco Networking Academy, building practical skills in security monitoring, network security, and Windows system hardening. I enjoy hands-on learning, solving technical problems, and documenting my work through practical cybersecurity labs.
 
 ## Objective
 
-To secure an entry-level cybersecurity opportunity where I can apply my technical knowledge, strengthen my incident detection and investigation skills, and contribute to protecting systems and networks while continuing to learn.
+My goal is to begin my cybersecurity career as a **Tier 1 Security Operations Center (SOC) Analyst**, developing strong skills in security monitoring, alert investigation, and incident response. My long-term ambition is to specialize in penetration testing, following the principle of learning to defend before learning to attack.
 
-## Education
-
-- **Melsoft Academy** — Occupational Certificate: Cybersecurity Analyst (NQF Level 5), in progress
-- **Cisco Networking Academy** — Cybersecurity training, in progress
-- **Allen Glen High School** — Matric, 2025
-
-## Skills & Associated Projects
+## Skills
 
 | Skill | Associated Project |
 |---|---|
-| Network and Wireless Security | [Cisco Network & Wireless Security Lab — Add project link](YOUR-CISCO-LAB-URL) |
-| Network Configuration and Connectivity Troubleshooting | [Cisco Network & Wireless Security Lab — Add project link](YOUR-CISCO-LAB-URL) |
-| Windows Security Configuration and Hardening | [Windows Security Hardening / CIS Assessment — Add project link](YOUR-WINDOWS-LAB-URL) |
-| Security Baseline Assessment | [Windows Security Hardening / CIS Assessment — Add project link](YOUR-WINDOWS-LAB-URL) |
-| Security Monitoring and SIEM | [Wazuh Home SIEM — Add project link when ready](YOUR-WAZUH-LAB-URL) |
-| Network Traffic Analysis | [Wireshark Lab — Add project link when ready](YOUR-WIRESHARK-LAB-URL) |
+| SIEM Monitoring and Alert Analysis | [Wazuh FIM Lab](https://github.com/s33khacks21/wazuh-windows-file-integrity-monitoring) |
+| File Integrity Monitoring and Hash Analysis | [Wazuh FIM Lab](https://github.com/s33khacks21/wazuh-windows-file-integrity-monitoring) |
+| Network and Wireless Security | [Cisco Network and Wireless Security Lab](https://github.com/s33khacks21/Cisco-Network-Wireless-Security-Lab) |
+| Windows Security Hardening | [Windows Security Hardening Lab](https://github.com/s33khacks21/windows-security-hardening-lab) |
+| Security Testing and Technical Documentation | [Wazuh FIM Lab](https://github.com/s33khacks21/wazuh-windows-file-integrity-monitoring) |
 
 ## Tools
 
-### Network Security
-
+### SIEM and Security Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" alt="Nmap" />
+    <img src="https://img.shields.io/badge/-Wazuh-3B82F6?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
-### SIEM & Security Monitoring
-
+### Network Analysis and Security
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-3A78B4?&style=for-the-badge&logoColor=white" alt="Wazuh" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-049FD9?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### Operating Systems
-
 <div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-## Certifications
+## Training and Certifications
 
-Currently developing my cybersecurity knowledge through formal training and practical labs. No professional certifications earned yet.
+- **Melsoft Academy:** Currently undertaking cybersecurity training.
+- **Cisco Networking Academy:** Studying cybersecurity and networking.
+- **Certifications:** No professional certifications earned yet. Currently focused on developing foundational knowledge and practical skills through training and hands-on labs.
 
 ## Projects
 
-### 1. Cisco Network & Wireless Security Lab
+### 1. Wazuh Windows File Integrity Monitoring Lab
 
-**Focus:** Network configuration, wireless security, and connectivity troubleshooting.
+**Status:** Completed
 
-- Configured a network consisting of networking devices and client systems in Cisco Packet Tracer.
-- Configured a wireless network using WPA2-PSK with AES encryption.
-- Tested connectivity between devices and troubleshot network addressing issues.
+[View Repository](https://github.com/s33khacks21/wazuh-windows-file-integrity-monitoring)
 
-**Project repository:** [Add your Cisco lab link here](YOUR-CISCO-LAB-URL)
+A hands-on SIEM lab using Wazuh to monitor a Windows directory and validate file integrity detection.
 
-### 2. Windows Security Hardening / CIS Assessment
+- Configured File Integrity Monitoring (FIM) for a dedicated Windows test directory.
+- Tested file modification, creation, and deletion.
+- Verified detection events in the Wazuh dashboard.
+- Examined alert details, file attributes, and integrity hashes.
+- Documented test results, screenshots, and SOC investigation findings.
 
-**Focus:** Windows security settings and security baseline assessment.
+### 2. Cisco Network and Wireless Security Lab
 
-- Assessed selected Windows security policies against baseline requirements.
-- Reviewed password policy settings, including password history, maximum password age, and minimum password age.
-- Documented assessment results and identified whether selected settings met the requirements.
+**Status:** Completed
 
-**Project repository:** [Add your Windows hardening lab link here](YOUR-WINDOWS-LAB-URL)
+[View Repository](https://github.com/s33khacks21/Cisco-Network-Wireless-Security-Lab)
 
-### 3. Wazuh Home SIEM
+A practical networking lab using Cisco Packet Tracer to explore network configuration, wireless security, and connectivity troubleshooting.
 
-**Focus:** Security monitoring, log collection, and detection engineering.
+- Configured network devices and a wireless access point.
+- Configured WPA2-PSK with AES encryption for wireless security.
+- Troubleshot network addressing issues.
+- Verified connectivity between network devices.
 
-**Status:** In progress.
+### 3. Windows Security Hardening Lab
 
-- Building a home SIEM environment using Wazuh.
-- Working with a Windows endpoint and a Wazuh manager.
-- Developing practical experience with endpoint log collection and security monitoring.
+**Status:** Completed
 
-**Project repository:** [Add your Wazuh lab link when ready](YOUR-WAZUH-LAB-URL)
+[View Repository](https://github.com/s33khacks21/windows-security-hardening-lab)
+
+A practical project focused on Windows security configuration and system hardening.
+
+- Explore and document Windows security settings and hardening controls.
+- Record configuration changes and validation evidence.
+- Explain the security purpose of the controls implemented.
+
+*The Windows hardening details should match the specific controls and evidence documented in the repository.*
+
+## Current Focus
+
+- Building practical SOC analysis and security monitoring skills.
+- Improving network traffic analysis and Windows security knowledge.
+- Developing investigation and incident response capabilities.
+- Preparing for an entry-level cybersecurity role.
+- Working toward a long-term career in penetration testing.
 
 ---
 
-## Current Learning Goals
-
-- Strengthen foundational SOC analysis and incident investigation skills.
-- Improve Linux and Windows security administration.
-- Develop practical experience with SIEM platforms and network analysis.
-- Build a documented portfolio of hands-on cybersecurity projects.
-- Progress towards penetration testing and red team security.
-
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/sipho-magudu-6b2188400/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
+*Learning by doing. Documenting the process. Building practical cybersecurity skills one lab at a time.*
